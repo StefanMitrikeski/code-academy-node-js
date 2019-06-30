@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "database": "groupc",
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "port": 3306
+  },
+  "stagin": {
+
+  },
+  "productions": {
+
+  }
+}

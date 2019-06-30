@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "arrayTemp": [
+      "user", 
+      "sdas",
+      "Adassa"
+    ],
+    "users": "https://jsonplaceholder.typicode.com/users",
+    "posts": "https://jsonplaceholder.typicode.com/posts",
+    "sudents": "codeacademy.mk"
+  },
+  "stagin": {
+    "sudents": "facebookacadmy.com"
+  },
+  "productions": {
+    "sudents": "youtube.com"
+
+  }
+}
